@@ -1,2 +1,2 @@
-# MeuRepositorio
-Este repositório tem imagens e gifs entre outras coisas reutilizada do meus projetos do git hub
+# My Repository 
+This repo has reused images and gifs from my git hub projects
